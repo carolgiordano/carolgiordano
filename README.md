@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Olá!
 
 Sou uma profissional em transição de carreira para desenvolvedor, formada em Ciências Econômicas e com especialização em Sistemas da Informação pela Universidade Federal do ABC. 
 
